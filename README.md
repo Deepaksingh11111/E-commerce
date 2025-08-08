@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://onecart-live-demo-link.com"><strong>🌐 Live Demo</strong></a> •
   <a href="https://github.com/Deepaksingh11111/E-commerce"><strong>Source Code</strong></a>
 </p>
 
