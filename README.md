@@ -40,10 +40,6 @@ onecart/
 │ │-- index.js
 │-- package.json
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Installation & Setup
